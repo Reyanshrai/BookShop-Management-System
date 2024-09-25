@@ -52,7 +52,7 @@ Users and admins can easily navigate the system on any device.
 Password Encryption: User passwords are stored securely using encryption to ensure data privacy.
 Access Control: The system differentiates between regular users and admins, ensuring that only authorized personnel can perform admin-specific actions.
 Technology Stack
-Backend: .NET Core
+Backend: .NET 
 Frontend: Razor Pages / Blazor (or another front-end technology you used)
 Database: SQL Server (or another DB used)
 PDF Generation: PDF generation functionality is used to create invoices for user orders.
