@@ -56,3 +56,6 @@ Backend: .NET
 Frontend: Razor Pages / Blazor (or another front-end technology you used)
 Database: SQL Server (or another DB used)
 PDF Generation: PDF generation functionality is used to create invoices for user orders.
+
+Admin username : reyansh
+Admin password : 1234
