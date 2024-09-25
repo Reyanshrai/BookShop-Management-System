@@ -1,4 +1,4 @@
-<img width="775" alt="image" src="https://github.com/user-attachments/assets/0f9c1f56-188a-46f0-a698-ce145bd5bdc1">Book Management System 📚
+Book Management System 📚
 Welcome to the Book Management System! This project is developed using .NET and is designed to streamline book management, user interaction, and order handling with comprehensive admin controls. Below is a detailed description of the system's functionality and features.
 
 Features and Functionality
@@ -58,8 +58,22 @@ Database: SQL Server (or another DB used)
 PDF Generation: PDF generation functionality is used to create invoices for user orders.
 
 Images About Project 
-UserDashboard
-<img width="775" alt="image" src="https://github.com/user-attachments/assets/be33442d-be25-4410-b0f0-f89f43671be9">
+
+##User Dashboard
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/be33442d-be25-4410-b0f0-f89f43671be9">
+
+##Login DashBoard
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/16f78e1d-3512-4efb-8a60-812ba4a82f04">
+
+##Admin DashBoard
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/c378e686-96a3-41a7-8be7-ba154516e363">
+
+##Password Change Dashboard
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/3c6b0f3f-8487-45ff-be3d-6b5a70a5b0a2">
+
+
+
+
 
 
 
