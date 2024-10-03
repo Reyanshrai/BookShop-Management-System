@@ -98,4 +98,3 @@ The admin has full control over managing users and books in the system. The admi
 
 ---
 
-Feel free to customize this `README.md` file as necessary for your project!
